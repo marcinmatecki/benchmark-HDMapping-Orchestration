@@ -5,6 +5,7 @@
 ## Go to your workspace folder:
 
 ```shell
+mkdir -p ~/hdmapping-benchmark
 cd ~/hdmapping-benchmark
 ```
 ## Clone the orchestration repository:
