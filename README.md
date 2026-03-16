@@ -2,10 +2,14 @@
 
 # Step 1 Prepare data
 
+## Create worskpace folder
+```shell
+mkdir -p ~/hdmapping-benchmark
+```
+
 ## Go to your workspace folder:
 
 ```shell
-mkdir -p ~/hdmapping-benchmark
 cd ~/hdmapping-benchmark
 ```
 ## Clone the orchestration repository:
