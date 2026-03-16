@@ -32,7 +32,7 @@ chmod +x ~/hdmapping-benchmark/benchmark-HDMapping-Orchestration/prepare_data_st
 
 kitti_seq00_ros1.bag
 
-kitti_seq00_ros2.zip
+kitti_seq00_ros2.zip – ROS2 bag (automatically unzipped into kitti_seq00_ros2/)
 
 
 # Step 2 Clone repositores
