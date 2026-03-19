@@ -3,7 +3,6 @@
 BASE="https://huggingface.co/datasets/kubchud/kitti_to_ros/resolve/main"
 TARGET="$HOME/hdmapping-benchmark/data"
 
-
 usage() {
     echo "Usage:"
     echo "  $0 seqXX"
